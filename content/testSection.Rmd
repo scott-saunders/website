@@ -7,12 +7,23 @@ categories: []
 tags: []
 ---
 
+```{r setup, echo = F}
+knitr::opts_chunk$set(echo = F)
+```
+
 # Let's put a plot here
 
 ```{r}
 library(ggplot2)
+library(kableExtra)
 
 ggplot(cars, aes(x = speed, y = dist)) + geom_point()
+```
+
+I want to show some code here
+
+```{r echo = T}
+cars %>% kable() %>% kable_styling()
 ```
 
 # And some more text

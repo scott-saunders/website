@@ -1,7 +1,7 @@
 publishDir = "docs"
 baseurl = "/website/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "SHS"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""

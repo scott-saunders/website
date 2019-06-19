@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on A Hugo website</title>
+    <title>Home on SHS</title>
     <link>/website/</link>
-    <description>Recent content in index on A Hugo website</description>
+    <description>Recent content in Home on SHS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/website/testsection/</guid>
-      <description> Let’s put a plot here library(ggplot2) ggplot(cars, aes(x = speed, y = dist)) + geom_point()  And some more text Cool!
- </description>
+      <description>Let’s put a plot here I want to show some code here
+cars %&amp;gt;% kable() %&amp;gt;% kable_styling()   speed  dist      4  2    4  10    7  4    7  22    8  16    9  10    10  18    10  26    10  34    11  17    11  28    12  14    12  20    12  24    12  28    13  26    13  34    13  34    13  46    14  26    14  36    14  60    14  80    15  20    15  26    15  54    16  32    16  40    17  32    17  40    17  50    18  42    18  56    18  76    18  84    19  36    19  46    19  68    20  32    20  48    20  52    20  56    20  64    22  66    23  54    24  70    24  92    24  93    24  120    25  85      And some more text Cool!</description>
     </item>
     
     <item>
@@ -60,6 +60,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/website/post/2015-01-01-lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/website/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/website/header/</guid>
+      <description>// toggle visibility of R source blocks in R Markdown output function toggle_R() { var x = document.getElementsByClassName(&#39;r&#39;); if (x.length == 0) return; function toggle_vis(o) { var d = o.style.display; o.style.display = (d == &#39;block&#39; || d == &#39;&#39;) ? &#39;none&#39;:&#39;block&#39;; } for (i = 0; i &#39;) </description>
     </item>
     
   </channel>
