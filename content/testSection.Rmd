@@ -1,0 +1,22 @@
+---
+title: Test section
+author: ''
+date: '2019-06-19'
+slug: testSection
+categories: []
+tags: []
+---
+
+# Let's put a plot here
+
+```{r}
+library(ggplot2)
+
+ggplot(cars, aes(x = speed, y = dist)) + geom_point()
+```
+
+# And some more text
+
+----------
+
+Cool! 

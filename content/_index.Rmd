@@ -1,0 +1,10 @@
+---
+title: index
+author: scott
+date: '2019-06-19'
+slug: _index
+categories: []
+tags: []
+---
+
+# This should now become the homepage?
