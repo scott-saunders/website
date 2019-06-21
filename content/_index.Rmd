@@ -10,4 +10,21 @@ output:
     code_folding: hide
 ---
 
-# Scott Saunders
+# Welcome!
+
+My name is Scott Saunders and I am currently a biology PhD candidate at Caltech with [Dianne Newman](http://dknweb.caltech.edu/Newman_Lab.html). My current project aims to understand how the bacterium *Pseudomonas aeruginosa* overcomes oxygen limitation with endogenous molecules called phenazines. We know that these phenazines help support these bacteria, but we don't really know how the cells are able to execute this strategy. My work tries to understand how phenazines support electron transfer in *Pseudomonas aeruginosa* biofilms, which is how these cells live in the environment and in pathogenic contexts.  
+
+I will do my best to keep this website updated with my publications etc. Feel free to check out my GitHub, which hosts my computational lab notebook. 
+
+Don't hesitate to contact me about research, grad school, the computational notebook or whatever else comes up! 
+
+**Email:** scott [dot] saunders [at] caltech [dot] [edu]
+
+***
+
+<center>
+![](/./_index_files/wt_biofilm_membrane_1_06b.tif){width=90%}
+</center>
+*Pseudomonas aeruginosa* cells on a $0.2\mu m$ filter.
+
+***

@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Publications</title>
+      <link>/website/about/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/website/about/</guid>
+      <description>Research articles  Submitted -  \(\color{red}{\text{S.H. Saunders}}\), E.C.M. Tse, M.D. Yates, F. Jiménez-Otero, J.K. Barton*, L.M. Tender*, D.K. Newman*. Extracellular DNA promotes efficient extracellular electron transfer by pyocyanin in Pseudomonas aeruginosa biofilms  *Corresponding authors
+ K.C. Costa, M. Bergkessel, \(\color{red}{\text{S. Saunders}}\), J. Korlach and D.K. Newman. (2015) Enzymatic degradation of phenazines can generate energy and protect sensitive organisms from toxicity, MBio 6:e01520-01515 PMCID: PMC4626857 doi   Reviews and perspectives  \(\color{red}{\text{S.</description>
+    </item>
+    
+    <item>
       <title>Test section</title>
       <link>/website/testsection/</link>
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
@@ -19,17 +29,6 @@
       <guid>/website/testsection/</guid>
       <description>Let’s put a plot here I want to show some code here
 cars %&amp;gt;% kable() %&amp;gt;% kable_styling()   speed  dist      4  2    4  10    7  4    7  22    8  16    9  10    10  18    10  26    10  34    11  17    11  28    12  14    12  20    12  24    12  28    13  26    13  34    13  34    13  46    14  26    14  36    14  60    14  80    15  20    15  26    15  54    16  32    16  40    17  32    17  40    17  50    18  42    18  56    18  76    18  84    19  36    19  46    19  68    20  32    20  48    20  52    20  56    20  64    22  66    23  54    24  70    24  92    24  93    24  120    25  85      And some more text Cool!</description>
-    </item>
-    
-    <item>
-      <title>test post</title>
-      <link>/website/about/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/website/about/</guid>
-      <description> This is a “hello world” example website for the blogdown package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by Yihui Xie.
-Scottent here! How fast do I update
- </description>
     </item>
     
     <item>
