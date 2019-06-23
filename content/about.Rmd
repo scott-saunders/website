@@ -23,7 +23,10 @@ tags: []
 
 *Co-first authors
 
-Test image change
 
-![](../about_files/wt_biofilm_membrane_1_06b.png)
+```{r eval = F, echo = F}
+#example path for image
 
+#![](../about_files/wt_biofilm_membrane_1_06b.png)
+
+```
