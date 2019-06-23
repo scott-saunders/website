@@ -20,9 +20,9 @@ Don't hesitate to contact me about research, grad school, the computational note
 
 **Email:** scott [dot] saunders [at] caltech [dot] [edu]
 
-***
+****
 <center>
-![](/_index_files/wt_biofilm_membrane_1_06b.png){width=90%}
+![](../docs/_index_files/wt_biofilm_membrane_1_06b.png){width=90%}
 </center>
  
 *Pseudomonas aeruginosa* cells on a $0.2\mu m$ filter.
