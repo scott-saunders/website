@@ -23,7 +23,7 @@ tags: []
 
 *Co-first authors
 
-Test image
+Test image change
 
-![](wt_biofilm_membrane_1_06b.png)
+![](../about_files/wt_biofilm_membrane_1_06b.png)
 
