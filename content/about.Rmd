@@ -25,4 +25,4 @@ tags: []
 
 Test image
 
-![](/./about_files/wt_biofilm_membrane_1_06b.tif)
+![](/./about_files/wt_biofilm_membrane_1_06b.png)
