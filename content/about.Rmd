@@ -25,5 +25,5 @@ tags: []
 
 Test image
 
-![](/docs/about_files/wt_biofilm_membrane_1_06b.png)
+![](wt_biofilm_membrane_1_06b.png)
 
