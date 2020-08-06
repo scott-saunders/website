@@ -7,22 +7,29 @@ categories: []
 tags: []
 ---
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=nDozpWEAAAAJ&view_op=list_works&sortby=pubdate) | [ORCID](https://orcid.org/0000-0003-4224-9106)
+
 ## Research articles
 
-* $\color{red}{\text{S.H. Saunders}}$, E.C.M. Tse, M.D. Yates, F. Jiménez Otero, S.A. Trammell, E.D.A. Stemp, J.K. Barton\*, L.M. Tender\*, D.K. Newman\*. (2020) Extracellular DNA promotes efficient extracellular electron transfer by pyocyanin in *Pseudomonas aeruginosa* biofilms | [bioRxiv preprint](https://doi.org/10.1101/2019.12.12.872085) | [github repository](https://github.com/dkn-lab/phz_eDNA_2019) | [paper website](https://dkn-lab.github.io/phz_eDNA_2019/)
+* $\color{red}{\text{S.H. Saunders}}$, E.C.M. Tse, M.D. Yates, F. Jiménez Otero, S.A. Trammell, E.D.A. Stemp, J.K. Barton\*, L.M. Tender\*, D.K. Newman\*. (2020) Extracellular DNA promotes efficient extracellular electron transfer by pyocyanin in *Pseudomonas aeruginosa* biofilms, Cell. | [doi](https://doi.org/10.1016/j.cell.2020.07.006) | [github repository](https://github.com/dkn-lab/phz_eDNA_2019) | [paper website](https://dkn-lab.github.io/phz_eDNA_2019/)
 
 *Corresponding authors
 
-* K.C. Costa, M. Bergkessel, $\color{red}{\text{S. Saunders}}$, J. Korlach and D.K. Newman. (2015) Enzymatic degradation of phenazines can generate energy and protect sensitive organisms from toxicity, MBio 6:e01520-01515 PMCID: PMC4626857 |  [doi](http://dx.doi.org/10.1128/mBio.01520-15)
+* L.M. Tsypin, $\color{red}{\text{S.H. Saunders}}$, Y. Bar-On, J.R. Leadbetter, D.K. Newman. (2020) Draft Genome Sequence of the Redox-Active Enteric Bacterium *Citrobacter portucalensis* Strain MBL, Microbiology Resource Announcements 9(32):e00695-20. | [doi](https://doi.org/10.1128/MRA.00695-20)
+
+* K.C. Costa, M. Bergkessel, $\color{red}{\text{S. Saunders}}$, J. Korlach and D.K. Newman. (2015) Enzymatic degradation of phenazines can generate energy and protect sensitive organisms from toxicity, MBio 6:e01520-01515. | [doi](http://dx.doi.org/10.1128/mBio.01520-15)
 
 ## Reviews and perspectives
 
-* $\color{red}{\text{S.H. Saunders}}$ and D.K. Newman. (2018) Extracellular Electron Transfer Transcends Microbe-Mineral Interactions, Cell Host Microbe 24(5):611-613 | [doi](https://doi.org/10.1016/j.chom.2018.10.018)
+* $\color{red}{\text{S.H. Saunders}}$ and D.K. Newman. (2018) Extracellular Electron Transfer Transcends Microbe-Mineral Interactions, Cell Host Microbe 24(5):611-613. | [doi](https://doi.org/10.1016/j.chom.2018.10.018)
 
-* N.R. Glasser\*, $\color{red}{\text{S.H. Saunders*}}$ and D.K. Newman. (2017) The colorful world of extracellular electron shuttles, Annu. Rev. Microbiol. 71:731–751 PMID: 28731847 | [doi](https://doi.org/10.1146/annurev-micro-090816-093913)
+* N.R. Glasser\*, $\color{red}{\text{S.H. Saunders*}}$ and D.K. Newman. (2017) The colorful world of extracellular electron shuttles, Annual Reviews Microbiology 71:731–751. | [doi](https://doi.org/10.1146/annurev-micro-090816-093913)
 
 *Co-first authors
 
+## bioRxiv Preprints
+
+* $\color{red}{\text{S.H. Saunders}}$, E.C.M. Tse, M.D. Yates, F. Jiménez Otero, S.A. Trammell, E.D.A. Stemp, J.K. Barton\*, L.M. Tender\*, D.K. Newman\*. (2020) Extracellular DNA promotes efficient extracellular electron transfer by pyocyanin in *Pseudomonas aeruginosa* biofilms, *Now published in Cell* | [bioRxiv preprint](https://doi.org/10.1101/2019.12.12.872085) | [github repository](https://github.com/dkn-lab/phz_eDNA_2019) | [paper website](https://dkn-lab.github.io/phz_eDNA_2019/)
 
 ```{r eval = F, echo = F}
 #example path for image
